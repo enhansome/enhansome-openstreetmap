@@ -1,0 +1,1209 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iD",
+          "description": "JavaScript based editor for the web browser with a wide array of presets. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:30:20Z",
+            "owner": "openstreetmap",
+            "repo": "iD",
+            "stars": 3853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid",
+          "description": "AI assisted versions of iD. (Meta-Repo / Editor Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-27T21:51:52Z",
+            "owner": "facebookmicrosites",
+            "repo": "Open-Mapping-At-Facebook",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Healthsites.io",
+          "description": "An online editor focused on adding and improving data on global health facilities. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T09:47:05Z",
+            "owner": "healthsites",
+            "repo": "healthsites",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnOSM",
+          "description": "Allows anyone to submit business information as a note for inclusion into OSM. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-12T21:23:07Z",
+            "owner": "osmlab",
+            "repo": "onosm.org",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Level0",
+          "description": "Text based editor that's useful in specific corner cases. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Motoko",
+            "last_commit": "2026-03-07T20:03:12Z",
+            "owner": "Zverik",
+            "repo": "Level0",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Web Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StreetComplete",
+          "description": "App for improving OSM by answering simple questions. (Android / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T14:26:44Z",
+            "owner": "streetcomplete",
+            "repo": "StreetComplete",
+            "stars": 4750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Every Door",
+          "description": "Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. (Android / iOS / Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-19T19:33:31Z",
+            "owner": "Zverik",
+            "repo": "every_door",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vespucci",
+          "description": "Advanced full-data-model editor for Android. (Android / Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T14:27:15Z",
+            "owner": "MarcusWolschon",
+            "repo": "osmeditor4android",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoMap!!",
+          "description": "Feature-rich mobile editor for iOS. (iOS / Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T06:58:23Z",
+            "owner": "bryceco",
+            "repo": "GoMap",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCEE",
+          "description": "StreetComplete Expert Edition: A modified version of StreetComplete that allows advanced editing capabilities. (Android / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T17:35:56Z",
+            "owner": "Helium314",
+            "repo": "SCEE",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSM Go!",
+          "description": "Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. (Android / Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T19:20:22Z",
+            "owner": "DoFabien",
+            "repo": "OsmGo",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "Mobile Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Merkaartor",
+          "description": "An opensource OSM editor, written in C++ and Qt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-19T20:27:06Z",
+            "owner": "openstreetmap",
+            "repo": "merkaartor",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Potlatch 3",
+          "description": "Native intermediate-level editor built in Adobe AIR. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ActionScript",
+            "last_commit": "2024-06-05T18:21:57Z",
+            "owner": "systemed",
+            "repo": "potlatch3",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Native Editors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "overpass-turbo",
+          "description": "Web based data mining tool for OpenStreetMap using Overpass API. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T14:53:27Z",
+            "owner": "tyrasd",
+            "repo": "overpass-turbo",
+            "stars": 1231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSMNames",
+          "description": "Geocoding tool ranking places according to the corresponding Wikipedia page popularity. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T12:12:40Z",
+            "owner": "OSMNames",
+            "repo": "OSMNames",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opening_hours evaluation tool",
+          "description": "Tool for evaluating tags. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T07:46:08Z",
+            "owner": "opening-hours",
+            "repo": "opening_hours.js",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bellingcat OpenStreetMap search",
+          "description": "Web based tool to find geolocation leads by searching for proximate features on OpenStreetMap. (Source Code / Article)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-07T16:07:07Z",
+            "owner": "bellingcat",
+            "repo": "osm-search",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taginfo",
+          "description": "Website displaying information on tags and their usage. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-21T13:58:12Z",
+            "owner": "taginfo",
+            "repo": "taginfo",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenStreetMap Welcome Tool",
+          "description": "Tool for finding fresh mappers in your area. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-09T09:33:41Z",
+            "owner": "osmbe",
+            "repo": "osm-welcome-tool",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web To OSM Opening Hours",
+          "description": "Tool for converting human-readable opening hours to tags. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-21T10:56:21Z",
+            "owner": "OSM-de",
+            "repo": "WebToOSMOH",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Web Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "better-osm-org",
+          "description": "Userscript that adds visualization of changesets and many other useful features to OSM website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:07:36Z",
+            "owner": "deevroman",
+            "repo": "better-osm-org",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSwitchMaps",
+          "description": "Map service switcher for Firefox and fork with Manifest v3 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-05T10:50:49Z",
+            "owner": "tankaru",
+            "repo": "OpenSwitchMaps",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenStreetMap Tags Editor",
+          "description": "Adds the ability to edit OSM object tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-30T11:48:15Z",
+            "owner": "Zverik",
+            "repo": "osmtags-editor",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenStreetMap Human-readable Wikidata",
+          "description": "Shows descriptions and illustrations for wiki tags (Source Code).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-27T15:04:07Z",
+            "owner": "ZeLonewolf",
+            "repo": "osm-wikidata-greasemonkey",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JumpToOSMChangesetAnalyzer",
+          "description": "Jump from OpenStreetMap changeset to changeset analyzer services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T05:08:12Z",
+            "owner": "tankaru",
+            "repo": "JumpToOSMChangesetAnalyzer",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Changeset Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osmcha",
+          "description": "Detector for suspicious changesets. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T17:14:43Z",
+            "owner": "OSMCha",
+            "repo": "osmcha-frontend",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Who did it?",
+          "description": "Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-20T09:58:24Z",
+            "owner": "simon04",
+            "repo": "whodidit",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "achavi",
+          "description": "Augmented change viewer. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-11T21:28:22Z",
+            "owner": "nrenner",
+            "repo": "achavi",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "changeset-map",
+          "description": "Map visualizing changes in selected changesets. Used in OsmCha. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-09T23:55:07Z",
+            "owner": "osmlab",
+            "repo": "changeset-map",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSM History Viewer",
+          "description": "Changeset visualization. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-13T09:11:18Z",
+            "owner": "osmrmhv",
+            "repo": "osmrmhv",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Web Services"
+    },
+    {
+      "description": "Tasking Managers are websites which assign small tasks to individual users to work towards a common goal.\nThis section is a great place to start if you want to get into improving OpenStreetMap.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MapRoulette",
+          "description": "Various challenges for making small edits to achive big tasks. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:33:19Z",
+            "owner": "maproulette",
+            "repo": "maproulette3",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotesReview",
+          "description": "Interface for searching and resolving OSM notes. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T15:56:22Z",
+            "owner": "ENT8R",
+            "repo": "NotesReview",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSM Streak",
+          "description": "Helps you do small tasks for OSM every day. Tasks are small and about five minutes each, but the point is to map every day, not map as much as you can. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-24T06:58:17Z",
+            "owner": "Zverik",
+            "repo": "osmstreak",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Tasking Managers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Streets GL",
+          "description": "OpenStreetMap 3D renderer powered by WebGL2. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-21T19:43:43Z",
+            "owner": "StrandedKitty",
+            "repo": "streets-gl",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FacilMap",
+          "description": "Map with easy possibility to filter for POI types. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T10:18:19Z",
+            "owner": "FacilMap",
+            "repo": "facilmap",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OsmAPP",
+          "description": "A browsable map showing data and offering simple POI-editing capabilities. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T06:22:03Z",
+            "owner": "zbycz",
+            "repo": "osmapp",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Road Curvature",
+          "description": "Helps to find curvy roads for those who enjoy them. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-12T04:52:55Z",
+            "owner": "adamfranco",
+            "repo": "curvature",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show me the way",
+          "description": "Live map showing latest changes on aerial imagery. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-14T11:51:49Z",
+            "owner": "osmlab",
+            "repo": "show-me-the-way",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baato Before-After Maps",
+          "description": "Generate before-after maps to visualize the work your local community has done. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-04-23T16:00:39Z",
+            "owner": "baato",
+            "repo": "before-after",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osm-livechanges",
+          "description": "Near-real-time display of edits in the OpenStreetMap database. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-17T20:33:22Z",
+            "owner": "cstenac",
+            "repo": "osm-livechanges",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Web Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Organic Maps",
+          "description": "A free offline maps app based on OSM. (Android, iOS / Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:58:57Z",
+            "owner": "organicmaps",
+            "repo": "organicmaps",
+            "stars": 15074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OsmAnd",
+          "description": "Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / Source Code Android / Source Code iOS / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T19:38:59Z",
+            "owner": "osmandapp",
+            "repo": "OsmAnd",
+            "stars": 5901
+          }
+        }
+      ],
+      "title": "Mobile Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Field Papers",
+          "description": "Generate maps for printing, annotate them, and manage your notes after. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T02:55:34Z",
+            "owner": "fieldpapers",
+            "repo": "fieldpapers",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyOSMatic",
+          "description": "Website for generating printable street maps from OSM data. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T10:32:55Z",
+            "owner": "hholzgra",
+            "repo": "maposmatic",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arnis",
+          "description": "Generate cities from real life in Minecraft using Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T20:40:49Z",
+            "owner": "louis-e",
+            "repo": "arnis",
+            "stars": 17455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back Of Your Hand",
+          "description": "A web map game that tests your knowledge by having you find a street in a given area. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2026-04-29T19:20:07Z",
+            "owner": "adam-lynch",
+            "repo": "back-of-your-hand",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PraxisMapper",
+          "description": "GPS Game server, for making mobile games around exploring the real world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-06T15:28:16Z",
+            "owner": "PraxisMapper",
+            "repo": "PraxisMapper",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Map Games"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSRM",
+          "description": "Routing engine for use in C++ applications. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:00:27Z",
+            "owner": "Project-OSRM",
+            "repo": "osrm-backend",
+            "stars": 7966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapnik",
+          "description": "Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T08:48:57Z",
+            "owner": "mapnik",
+            "repo": "mapnik",
+            "stars": 3953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libosmium",
+          "description": "Fast and flexible C++ library for working with OpenStreetMap data. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T18:51:48Z",
+            "owner": "osmcode",
+            "repo": "libosmium",
+            "stars": 550
+          }
+        }
+      ],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Leaflet",
+          "description": "An open-source JavaScript library for mobile-friendly interactive maps. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:11:21Z",
+            "owner": "Leaflet",
+            "repo": "Leaflet",
+            "stars": 45479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLayers",
+          "description": "A high-performance library for rendering raster and vector maps. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:45:15Z",
+            "owner": "openlayers",
+            "repo": "openlayers",
+            "stars": 12537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MapLibre GL JS",
+          "description": "A map renderer with GPU-accelerated vector tile rendering. (Source Code / See Related List)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:27:12Z",
+            "owner": "maplibre",
+            "repo": "maplibre-gl-js",
+            "stars": 11325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-mapnik",
+          "description": "Node wrapper for mapnik.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T09:03:36Z",
+            "owner": "mapnik",
+            "repo": "node-mapnik",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-osmium",
+          "description": "Node wrapper for libosmium for working with OpenStreetMap data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-06-10T08:30:17Z",
+            "owner": "osmcode",
+            "repo": "node-osmium",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osm-pbf-parser-node",
+          "description": "Streaming OpenStreetMap PBF parser for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-14T10:35:30Z",
+            "owner": "borisgontar",
+            "repo": "osm-pbf-parser-node",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openstreetmap-tag-map",
+          "description": "Tag for Riot.js to generate iframe-map from the country and region.",
+          "children": []
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osmnx",
+          "description": "Visualizer for street networks. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T17:24:41Z",
+            "owner": "gboeing",
+            "repo": "osmnx",
+            "stars": 5808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettymapp",
+          "description": "Create beautiful maps from OpenStreetMap data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T14:24:28Z",
+            "owner": "chrieke",
+            "repo": "prettymapp",
+            "stars": 2792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overpass-wrapper",
+          "description": "Wrapper around the OpenStreetMap Overpass API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-01-08T03:59:25Z",
+            "owner": "mvexel",
+            "repo": "overpass-api-python-wrapper",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuackOSM",
+          "description": "A Python library for downloading, filtering and transforming files into files using DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:53:47Z",
+            "owner": "kraina-ai",
+            "repo": "quackosm",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overpy",
+          "description": "A Python wrapper to access the Overpass API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T18:48:23Z",
+            "owner": "DinoTools",
+            "repo": "python-overpy",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osmapi",
+          "description": "Python wrapper for the OpenStreetMap API. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:59:40Z",
+            "owner": "metaodi",
+            "repo": "osmapi",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-mapnik",
+          "description": "Python wrapper for mapnik.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T09:11:01Z",
+            "owner": "mapnik",
+            "repo": "python-mapnik",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osmcha",
+          "description": "Python package to detect suspicious OSM changesets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T13:46:14Z",
+            "owner": "OSMCha",
+            "repo": "osmcha",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geodesk",
+          "description": "Fast and storage-efficient database for OpenStreetMap analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T12:29:15Z",
+            "owner": "clarisma",
+            "repo": "geodesk-py",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "humanized_opening_hours",
+          "description": "A package to parse the tag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-21T17:51:37Z",
+            "owner": "rezemika",
+            "repo": "humanized_opening_hours",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overpassforge",
+          "description": "A package to build Overpass queries from Python objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T01:53:40Z",
+            "owner": "nmisyats",
+            "repo": "Overpass-Forge",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GraphHopper",
+          "description": "Open source route planning library and server using OpenStreetMap. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T15:35:51Z",
+            "owner": "graphhopper",
+            "repo": "graphhopper",
+            "stars": 6627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTripPlanner",
+          "description": "Open source multi-modal trip planner. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T23:27:51Z",
+            "owner": "opentripplanner",
+            "repo": "OpenTripPlanner",
+            "stars": 2713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSM2World",
+          "description": "converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T08:58:46Z",
+            "owner": "tordanik",
+            "repo": "OSM2World",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoDesk",
+          "description": "Fast and storage-efficient database for OpenStreetMap analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-17T15:16:15Z",
+            "owner": "clarisma",
+            "repo": "geodesk",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "overpass",
+          "description": "Read-only API that serves up custom selected parts of the OSM map data. (Source Code / Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-19T18:17:06Z",
+            "owner": "drolbr",
+            "repo": "Overpass-API",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSMCha API",
+          "description": "Powerful API that allows to query and retrieve changeset information. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T17:09:24Z",
+            "owner": "OSMCha",
+            "repo": "osmcha-django",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postpass",
+          "description": "PostGIS-powered SQL API for OSM data. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T14:43:39Z",
+            "owner": "woodpeck",
+            "repo": "postpass-ops",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osm.mazdermind",
+          "description": "Maps Timestamp to replicate sequences. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-26T13:01:29Z",
+            "owner": "MaZderMind",
+            "repo": "replicate-sequences",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Public APIs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Additional Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communities"
+    },
+    {
+      "description": "OpenStreetMap and the OpenStreetMap Logo are a trademark of the OpenStreetMap Foundation, and is used with their permission. This project is not endorsed by or affiliated with the OpenStreetMap Foundation.\nThe OpenStreetMap Logo by Ken Vermette is used under the Creative Commons Attribution-ShareAlike 3.0 License.",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:43.805Z",
+    "original_repository": "osmlab/awesome-openstreetmap",
+    "original_repository_sha": "983363a724c5fe1335587d1e120565e7f835c030",
+    "enhanced_repository": "enhansome/enhansome-openstreetmap",
+    "enhanced_repository_description": null,
+    "title": "Awesome OpenStreetMap with stars"
+  }
+}
