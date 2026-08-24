@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 4989235,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T10:45:37Z",
+                "last_commit": "2026-08-24T14:15:35Z",
                 "owner": "openstreetmap",
                 "repo": "iD",
                 "stars": 3861
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 62446262,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T16:00:00Z",
+                "last_commit": "2026-08-24T11:20:12Z",
                 "owner": "streetcomplete",
                 "repo": "StreetComplete",
                 "stars": 4766
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 32623844,
                 "language": "Java",
-                "last_commit": "2026-08-23T16:17:21Z",
+                "last_commit": "2026-08-24T14:02:41Z",
                 "owner": "MarcusWolschon",
                 "repo": "osmeditor4android",
                 "stars": 470
@@ -266,7 +266,7 @@
                 "archived": false,
                 "id": 12008088,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T13:05:44Z",
+                "last_commit": "2026-08-24T06:09:18Z",
                 "owner": "opening-hours",
                 "repo": "opening_hours.js",
                 "stars": 254
@@ -336,6 +336,50 @@
           "description": null,
           "node_type": "group",
           "title": "Web Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OSMTracker",
+              "description": "Offline GPS tracking tool for recording GPX tracks. (Android / Wiki)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2347968,
+                "language": "Java",
+                "last_commit": "2026-05-28T05:17:16Z",
+                "owner": "labexp",
+                "repo": "osmtracker-android",
+                "stars": 557
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Baremaps",
+              "description": "Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. (Source Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164497122,
+                "language": "Java",
+                "last_commit": "2026-05-18T11:30:54Z",
+                "owner": "apache",
+                "repo": "incubator-baremaps",
+                "stars": 566
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Native Tools"
         },
         {
           "children": [
@@ -620,7 +664,7 @@
                 "archived": false,
                 "id": 18538137,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T09:18:59Z",
+                "last_commit": "2026-08-24T07:02:21Z",
                 "owner": "FacilMap",
                 "repo": "facilmap",
                 "stars": 406
@@ -717,10 +761,10 @@
                 "archived": false,
                 "id": 324829379,
                 "language": "C++",
-                "last_commit": "2026-08-23T21:38:01Z",
+                "last_commit": "2026-08-24T14:08:43Z",
                 "owner": "organicmaps",
                 "repo": "organicmaps",
-                "stars": 15183
+                "stars": 15190
               }
             },
             {
@@ -732,10 +776,10 @@
                 "archived": false,
                 "id": 1258570,
                 "language": "Java",
-                "last_commit": "2026-08-23T16:09:21Z",
+                "last_commit": "2026-08-24T13:26:04Z",
                 "owner": "osmandapp",
                 "repo": "OsmAnd",
-                "stars": 5923
+                "stars": 5924
               }
             }
           ],
@@ -784,6 +828,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Terrain Classic",
+              "description": "World-wide CartoCSS port of Stamen's classic terrain style.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34821046,
+                "language": "CartoCSS",
+                "last_commit": "2024-06-09T21:17:04Z",
+                "owner": "stamen",
+                "repo": "terrain-classic",
+                "stars": 145
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Map Styles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Arnis",
               "description": "Generate cities from real life in Minecraft using Python.",
               "children": [],
@@ -794,7 +860,7 @@
                 "last_commit": "2026-08-23T15:22:18Z",
                 "owner": "louis-e",
                 "repo": "arnis",
-                "stars": 17583
+                "stars": 17594
               }
             },
             {
@@ -849,10 +915,10 @@
                 "archived": false,
                 "id": 2436255,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:56:36Z",
+                "last_commit": "2026-08-24T11:41:43Z",
                 "owner": "Project-OSRM",
                 "repo": "osrm-backend",
-                "stars": 8004
+                "stars": 8007
               }
             },
             {
@@ -864,7 +930,7 @@
                 "archived": false,
                 "id": 2556327,
                 "language": "C++",
-                "last_commit": "2026-08-07T08:48:57Z",
+                "last_commit": "2026-08-24T08:55:08Z",
                 "owner": "mapnik",
                 "repo": "mapnik",
                 "stars": 3955
@@ -901,10 +967,10 @@
                 "archived": false,
                 "id": 931135,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T12:53:01Z",
+                "last_commit": "2026-08-24T12:53:41Z",
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45509
+                "stars": 45510
               }
             },
             {
@@ -916,7 +982,7 @@
                 "archived": false,
                 "id": 4723248,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T10:33:38Z",
+                "last_commit": "2026-08-24T08:35:33Z",
                 "owner": "openlayers",
                 "repo": "openlayers",
                 "stars": 12550
@@ -931,10 +997,10 @@
                 "archived": false,
                 "id": 319779344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T20:51:59Z",
+                "last_commit": "2026-08-24T12:02:31Z",
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11414
+                "stars": 11420
               }
             },
             {
@@ -1016,7 +1082,7 @@
                 "last_commit": "2026-07-08T14:24:28Z",
                 "owner": "chrieke",
                 "repo": "prettymapp",
-                "stars": 2805
+                "stars": 2806
               }
             },
             {
@@ -1173,7 +1239,7 @@
                 "last_commit": "2026-08-23T21:45:31Z",
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6640
+                "stars": 6641
               }
             },
             {
@@ -1185,10 +1251,10 @@
                 "archived": false,
                 "id": 2067253,
                 "language": "Java",
-                "last_commit": "2026-08-21T16:06:10Z",
+                "last_commit": "2026-08-24T08:37:41Z",
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2719
+                "stars": 2721
               }
             },
             {
@@ -1200,7 +1266,7 @@
                 "archived": false,
                 "id": 4241340,
                 "language": "Java",
-                "last_commit": "2026-08-10T08:58:46Z",
+                "last_commit": "2026-08-24T08:54:31Z",
                 "owner": "tordanik",
                 "repo": "OSM2World",
                 "stars": 773
@@ -1294,10 +1360,52 @@
         }
       ],
       "title": "Public APIs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSM Monitor",
+          "description": "A website to monitor and display new OSM edits. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429306692,
+            "language": "Python",
+            "last_commit": "2025-12-07T15:30:26Z",
+            "owner": "johanmorganti",
+            "repo": "osm-datadog",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-maplibre",
+          "description": "A collection of awesome things that use or support MapLibre!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 371112129,
+            "language": null,
+            "last_commit": "2026-08-22T17:56:37Z",
+            "owner": "maplibre",
+            "repo": "awesome-maplibre",
+            "stars": 1050
+          }
+        }
+      ],
+      "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:27:24.605Z",
+    "last_updated": "2026-08-24T14:17:38.729Z",
     "original_repository": "osmlab/awesome-openstreetmap",
     "original_repository_id": 88237705,
     "original_repository_sha": "983363a724c5fe1335587d1e120565e7f835c030",
