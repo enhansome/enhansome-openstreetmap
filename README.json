@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 4989235,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:15:35Z",
+                "last_commit": "2026-08-24T14:43:44Z",
                 "owner": "openstreetmap",
                 "repo": "iD",
-                "stars": 3861
+                "stars": 3862
               }
             },
             {
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 32623844,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:02:41Z",
+                "last_commit": "2026-08-24T22:28:58Z",
                 "owner": "MarcusWolschon",
                 "repo": "osmeditor4android",
                 "stars": 470
@@ -239,7 +239,7 @@
                 "last_commit": "2026-07-19T14:53:27Z",
                 "owner": "tyrasd",
                 "repo": "overpass-turbo",
-                "stars": 1235
+                "stars": 1236
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-05-28T05:17:16Z",
                 "owner": "labexp",
                 "repo": "osmtracker-android",
-                "stars": 557
+                "stars": 558
               }
             }
           ],
@@ -367,7 +367,7 @@
               "description": "Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. (Source Code)",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 164497122,
                 "language": "Java",
                 "last_commit": "2026-05-18T11:30:54Z",
@@ -392,7 +392,7 @@
                 "archived": false,
                 "id": 707867117,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T14:23:40Z",
+                "last_commit": "2026-08-24T23:49:39Z",
                 "owner": "deevroman",
                 "repo": "better-osm-org",
                 "stars": 183
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 165693175,
                 "language": "TypeScript",
-                "last_commit": "2026-08-11T06:22:03Z",
+                "last_commit": "2026-08-24T17:06:28Z",
                 "owner": "zbycz",
                 "repo": "osmapp",
                 "stars": 383
@@ -761,10 +761,10 @@
                 "archived": false,
                 "id": 324829379,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:08:43Z",
+                "last_commit": "2026-08-24T17:10:11Z",
                 "owner": "organicmaps",
                 "repo": "organicmaps",
-                "stars": 15190
+                "stars": 15197
               }
             },
             {
@@ -776,10 +776,10 @@
                 "archived": false,
                 "id": 1258570,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:26:04Z",
+                "last_commit": "2026-08-24T22:14:21Z",
                 "owner": "osmandapp",
                 "repo": "OsmAnd",
-                "stars": 5924
+                "stars": 5925
               }
             }
           ],
@@ -860,7 +860,7 @@
                 "last_commit": "2026-08-23T15:22:18Z",
                 "owner": "louis-e",
                 "repo": "arnis",
-                "stars": 17594
+                "stars": 17605
               }
             },
             {
@@ -915,10 +915,10 @@
                 "archived": false,
                 "id": 2436255,
                 "language": "C++",
-                "last_commit": "2026-08-24T11:41:43Z",
+                "last_commit": "2026-08-24T19:53:37Z",
                 "owner": "Project-OSRM",
                 "repo": "osrm-backend",
-                "stars": 8007
+                "stars": 8008
               }
             },
             {
@@ -930,7 +930,7 @@
                 "archived": false,
                 "id": 2556327,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:55:08Z",
+                "last_commit": "2026-08-24T15:29:06Z",
                 "owner": "mapnik",
                 "repo": "mapnik",
                 "stars": 3955
@@ -970,7 +970,7 @@
                 "last_commit": "2026-08-24T12:53:41Z",
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45510
+                "stars": 45513
               }
             },
             {
@@ -985,7 +985,7 @@
                 "last_commit": "2026-08-24T08:35:33Z",
                 "owner": "openlayers",
                 "repo": "openlayers",
-                "stars": 12550
+                "stars": 12552
               }
             },
             {
@@ -997,10 +997,10 @@
                 "archived": false,
                 "id": 319779344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:02:31Z",
+                "last_commit": "2026-08-24T21:48:48Z",
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11420
+                "stars": 11422
               }
             },
             {
@@ -1082,7 +1082,7 @@
                 "last_commit": "2026-07-08T14:24:28Z",
                 "owner": "chrieke",
                 "repo": "prettymapp",
-                "stars": 2806
+                "stars": 2807
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "archived": false,
                 "id": 15563341,
                 "language": "Python",
-                "last_commit": "2026-08-18T18:00:18Z",
+                "last_commit": "2026-08-24T19:52:39Z",
                 "owner": "metaodi",
                 "repo": "osmapi",
                 "stars": 230
@@ -1239,7 +1239,7 @@
                 "last_commit": "2026-08-23T21:45:31Z",
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6641
+                "stars": 6642
               }
             },
             {
@@ -1251,7 +1251,7 @@
                 "archived": false,
                 "id": 2067253,
                 "language": "Java",
-                "last_commit": "2026-08-24T08:37:41Z",
+                "last_commit": "2026-08-24T16:51:54Z",
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
                 "stars": 2721
@@ -1284,7 +1284,7 @@
                 "last_commit": "2026-07-17T15:16:15Z",
                 "owner": "clarisma",
                 "repo": "geodesk",
-                "stars": 192
+                "stars": 193
               }
             }
           ],
@@ -1394,7 +1394,7 @@
             "archived": false,
             "id": 371112129,
             "language": null,
-            "last_commit": "2026-08-22T17:56:37Z",
+            "last_commit": "2026-08-24T18:46:23Z",
             "owner": "maplibre",
             "repo": "awesome-maplibre",
             "stars": 1050
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:38.729Z",
+    "last_updated": "2026-08-25T03:15:33.104Z",
     "original_repository": "osmlab/awesome-openstreetmap",
     "original_repository_id": 88237705,
     "original_repository_sha": "983363a724c5fe1335587d1e120565e7f835c030",
