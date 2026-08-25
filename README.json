@@ -776,7 +776,7 @@
                 "archived": false,
                 "id": 1258570,
                 "language": "Java",
-                "last_commit": "2026-08-24T22:14:21Z",
+                "last_commit": "2026-08-25T05:37:15Z",
                 "owner": "osmandapp",
                 "repo": "OsmAnd",
                 "stars": 5925
@@ -860,7 +860,7 @@
                 "last_commit": "2026-08-23T15:22:18Z",
                 "owner": "louis-e",
                 "repo": "arnis",
-                "stars": 17605
+                "stars": 17606
               }
             },
             {
@@ -970,7 +970,7 @@
                 "last_commit": "2026-08-24T12:53:41Z",
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45513
+                "stars": 45514
               }
             },
             {
@@ -997,7 +997,7 @@
                 "archived": false,
                 "id": 319779344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:48:48Z",
+                "last_commit": "2026-08-25T05:56:58Z",
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
                 "stars": 11422
@@ -1082,7 +1082,7 @@
                 "last_commit": "2026-07-08T14:24:28Z",
                 "owner": "chrieke",
                 "repo": "prettymapp",
-                "stars": 2807
+                "stars": 2808
               }
             },
             {
@@ -1254,7 +1254,7 @@
                 "last_commit": "2026-08-24T16:51:54Z",
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2721
+                "stars": 2722
               }
             },
             {
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:15:33.104Z",
+    "last_updated": "2026-08-25T06:08:46.176Z",
     "original_repository": "osmlab/awesome-openstreetmap",
     "original_repository_id": 88237705,
     "original_repository_sha": "983363a724c5fe1335587d1e120565e7f835c030",
