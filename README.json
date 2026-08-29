@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🆔 The easy-to-use OpenStreetMap editor in JavaScript.",
+                "homepage": "https://ideditor.com/",
                 "id": 4989235,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-08-28T04:26:11Z",
+                "open_issues": 1011,
                 "owner": "openstreetmap",
                 "repo": "iD",
-                "stars": 3864
+                "stars": 3864,
+                "topics": [
+                  "d3",
+                  "editor",
+                  "mapping",
+                  "openstreetmap"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation for Open Mapping At Facebook",
+                "homepage": null,
                 "id": 176638886,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-07-27T21:51:52Z",
+                "open_issues": 7,
                 "owner": "facebookmicrosites",
                 "repo": "Open-Mapping-At-Facebook",
-                "stars": 189
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -44,12 +59,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building an open data commons of health facility data with OpenStreetMap",
+                "homepage": "https://healthsites.io/",
                 "id": 25261082,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T15:12:38Z",
+                "open_issues": 223,
                 "owner": "healthsites",
                 "repo": "healthsites",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "coverage-status",
+                  "django",
+                  "electicity",
+                  "facilities",
+                  "healthcare",
+                  "openstreetmap",
+                  "python",
+                  "sanitation"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -60,12 +89,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy way to put your business on OSM.",
+                "homepage": null,
                 "id": 9734552,
                 "language": "CSS",
+                "license": "Unlicense",
                 "last_commit": "2026-08-12T21:23:07Z",
+                "open_issues": 14,
                 "owner": "osmlab",
                 "repo": "onosm.org",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -76,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web-based OpenStreetMap Editor",
+                "homepage": "http://level0.osmz.ru",
                 "id": 18363170,
                 "language": "Motoko",
+                "license": "WTFPL",
                 "last_commit": "2026-08-19T21:21:54Z",
+                "open_issues": 30,
                 "owner": "Zverik",
                 "repo": "Level0",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -99,12 +138,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use OpenStreetMap editor for Android",
+                "homepage": "https://streetcomplete.app",
                 "id": 62446262,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T14:14:35Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T23:03:03Z",
+                "open_issues": 132,
                 "owner": "streetcomplete",
                 "repo": "StreetComplete",
-                "stars": 4772
+                "stars": 4775,
+                "topics": [
+                  "android",
+                  "editor",
+                  "mapping",
+                  "openstreetmap",
+                  "osm",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -115,12 +166,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dedicated app for collecting thousands of POI for OpenStreetMap",
+                "homepage": "https://every-door.app",
                 "id": 473902179,
                 "language": "Dart",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-19T19:33:31Z",
+                "open_issues": 209,
                 "owner": "Zverik",
                 "repo": "every_door",
-                "stars": 552
+                "stars": 552,
+                "topics": [
+                  "fdroid",
+                  "flutter",
+                  "openstreetmap",
+                  "osm"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -131,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vespucci is a OpenStreetMap editor for Android",
+                "homepage": "http://vespucci.io",
                 "id": 32623844,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T13:28:04Z",
+                "open_issues": 220,
                 "owner": "MarcusWolschon",
                 "repo": "osmeditor4android",
-                "stars": 470
+                "stars": 470,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -147,12 +213,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStreetMap editor for iPhone/iPad",
+                "homepage": null,
                 "id": 7833425,
                 "language": "Swift",
-                "last_commit": "2026-08-28T06:54:39Z",
+                "license": "ISC",
+                "last_commit": "2026-08-28T18:31:00Z",
+                "open_issues": 94,
                 "owner": "bryceco",
                 "repo": "GoMap",
-                "stars": 412
+                "stars": 412,
+                "topics": [
+                  "editor",
+                  "ios",
+                  "macos",
+                  "mapping",
+                  "openstreetmap",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -163,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStreetMap surveyor app for experienced OSM contributors",
+                "homepage": null,
                 "id": 286814683,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T18:04:57Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T17:33:31Z",
+                "open_issues": 123,
                 "owner": "Helium314",
                 "repo": "SCEE",
-                "stars": 245
+                "stars": 245,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -179,12 +262,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Osm Go !",
+                "homepage": "https://dofabien.github.io/OsmGo/",
                 "id": 75081254,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T11:46:10Z",
+                "open_issues": 58,
                 "owner": "DoFabien",
                 "repo": "OsmGo",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "android",
+                  "openstreetmap",
+                  "osm",
+                  "pwa"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -202,12 +295,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Home of Merkaartor, an openstreetmap mapping program.",
+                "homepage": "http://merkaartor.be/",
                 "id": 641598,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-19T20:27:06Z",
+                "open_issues": 71,
                 "owner": "openstreetmap",
                 "repo": "merkaartor",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "hacktoberfest",
+                  "hacktoberfest2021",
+                  "openstreetmap"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -218,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStreetMap editor for desktop",
+                "homepage": null,
                 "id": 319368372,
                 "language": "ActionScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-05T18:21:57Z",
+                "open_issues": 29,
                 "owner": "systemed",
                 "repo": "potlatch3",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -247,12 +354,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web based data mining tool for OpenStreetMap using the Overpass API.",
+                "homepage": "https://overpass-turbo.eu",
                 "id": 5073659,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-19T14:53:27Z",
+                "open_issues": 256,
                 "owner": "tyrasd",
                 "repo": "overpass-turbo",
-                "stars": 1236
+                "stars": 1236,
+                "topics": [
+                  "openstreetmap",
+                  "openstreetmap-data",
+                  "osm",
+                  "overpass-api",
+                  "overpass-turbo"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -263,12 +381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data for place names from OpenStreetMap prepared for fulltext search. Downloadable. Ranked. With bbox and hierarchy. Ready for geocoding.",
+                "homepage": "http://osmnames.org/",
                 "id": 52266678,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-07T12:12:40Z",
+                "open_issues": 33,
                 "owner": "OSMNames",
                 "repo": "OSMNames",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -279,12 +402,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library to parse and process the opening_hours tag from OpenStreetMap data",
+                "homepage": "https://openingh.ypid.de/evaluation_tool/",
                 "id": 12008088,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T10:12:27Z",
+                "open_issues": 94,
                 "owner": "opening-hours",
                 "repo": "opening_hours.js",
-                "stars": 254
+                "stars": 254,
+                "topics": [
+                  "javascript-library",
+                  "npm-package",
+                  "opening-hours",
+                  "openinghours",
+                  "openstreetmap",
+                  "openstreetmap-data",
+                  "openstreetmap-validator"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -295,12 +431,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A user friendly way to search OpenStreetMap data for features in proximity to each other.",
+                "homepage": "https://osm-search.bellingcat.com/",
                 "id": 545947416,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-07-07T16:07:07Z",
+                "open_issues": 11,
                 "owner": "bellingcat",
                 "repo": "osm-search",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "gui",
+                  "javascript",
+                  "open-source-research",
+                  "open-street-map",
+                  "python",
+                  "service",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -311,12 +460,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brings together information about OpenStreetMap tags and makes it searchable and browsable",
+                "homepage": "https://wiki.openstreetmap.org/wiki/Taginfo",
                 "id": 961086,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-21T13:58:12Z",
+                "open_issues": 76,
                 "owner": "taginfo",
                 "repo": "taginfo",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "javascript",
+                  "openstreetmap",
+                  "ruby",
+                  "taginfo"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -327,12 +486,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website to help welcoming new OpenStreetMap contributors in your region",
+                "homepage": "https://welcome.osm.be",
                 "id": 69466578,
                 "language": "PHP",
+                "license": "ISC",
                 "last_commit": "2026-08-23T07:42:09Z",
+                "open_issues": 32,
                 "owner": "osmbe",
                 "repo": "osm-welcome-tool",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "openstreetmap",
+                  "osm"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -343,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conversion of website content to OSM understood opening_hours",
+                "homepage": null,
                 "id": 275511159,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-21T10:56:21Z",
+                "open_issues": 3,
                 "owner": "OSM-de",
                 "repo": "WebToOSMOH",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -366,12 +538,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPS tracking tool for OpenStreetMap",
+                "homepage": null,
                 "id": 2347968,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-28T05:17:16Z",
+                "open_issues": 95,
                 "owner": "labexp",
                 "repo": "osmtracker-android",
-                "stars": 558
+                "stars": 558,
+                "topics": [
+                  "gpx",
+                  "openstreetmap",
+                  "osm"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -389,14 +570,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 1348978159,
+                "description": null,
+                "homepage": null,
+                "id": 1349700222,
                 "language": "Java",
-                "last_commit": "2026-08-28T13:55:43Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:54:57Z",
+                "open_issues": 0,
                 "owner": "baremaps",
                 "repo": "baremaps",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
-              "first_seen": "2026-08-28T14:25:11.032Z"
+              "first_seen": "2026-08-29T04:36:10.717Z"
             }
           ],
           "description": null,
@@ -412,12 +598,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A userscript that adds several useful features to osm.org",
+                "homepage": null,
                 "id": 707867117,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T23:44:44Z",
+                "license": null,
+                "last_commit": "2026-08-29T00:24:17Z",
+                "open_issues": 177,
                 "owner": "deevroman",
                 "repo": "better-osm-org",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "openstreetmap",
+                  "userscript"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -428,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map service switcher for Chrome/Firefox extension",
+                "homepage": null,
                 "id": 165263603,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-05T10:50:49Z",
+                "open_issues": 24,
                 "owner": "tankaru",
                 "repo": "OpenSwitchMaps",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -444,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extension that adds an \"edit tags\" button to every object on osm.org",
+                "homepage": null,
                 "id": 515910542,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-30T11:48:15Z",
+                "open_issues": 6,
                 "owner": "Zverik",
                 "repo": "osmtags-editor",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -460,12 +664,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Greasemonkey scripts for better display of wikidata on OSM",
+                "homepage": null,
                 "id": 742838915,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2024-01-27T15:04:07Z",
+                "open_issues": 2,
                 "owner": "ZeLonewolf",
                 "repo": "osm-wikidata-greasemonkey",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -476,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open OSMCha and achavi from OSM webpage",
+                "homepage": null,
                 "id": 184413267,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T05:08:12Z",
+                "open_issues": 12,
                 "owner": "tankaru",
                 "repo": "JumpToOSMChangesetAnalyzer",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -505,12 +719,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Frontend for the osmcha-django REST API",
+                "homepage": "https://osmcha.org",
                 "id": 87150168,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2026-07-24T17:14:43Z",
+                "open_issues": 302,
                 "owner": "OSMCha",
                 "repo": "osmcha-frontend",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "dataquality",
+                  "openstreetmap",
+                  "osm",
+                  "osmcha",
+                  "qa"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -521,12 +746,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStreetMap Changeset Analyzer",
+                "homepage": "https://simon04.dev.openstreetmap.org/whodidit/",
                 "id": 6637895,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-04-20T09:58:24Z",
+                "open_issues": 17,
                 "owner": "simon04",
                 "repo": "whodidit",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "changeset",
+                  "openstreetmap",
+                  "review-tools"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -537,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "achavi - Augmented OSM Change Viewer - alpha",
+                "homepage": null,
                 "id": 6416650,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-11T21:28:22Z",
+                "open_issues": 41,
                 "owner": "nrenner",
                 "repo": "achavi",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -553,12 +792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualise a changeset on a map",
+                "homepage": "http://osmlab.github.io/changeset-map/",
                 "id": 53943260,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2025-10-09T23:55:07Z",
+                "open_issues": 55,
                 "owner": "osmlab",
                 "repo": "changeset-map",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -569,12 +813,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSM Route Manager and History Viewer",
+                "homepage": null,
                 "id": 33459980,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-13T09:11:18Z",
+                "open_issues": 10,
                 "owner": "osmrmhv",
                 "repo": "osmrmhv",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -585,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStreetMap Analytic Difference Engine",
+                "homepage": null,
                 "id": 42363553,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2021-05-08T16:42:17Z",
+                "open_issues": 6,
                 "owner": "michaelvl",
                 "repo": "osm-analytic-tracker",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -601,12 +855,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "View and analyze the latest OpenStreetMap updates in a chosen region",
+                "homepage": "https://rene78.github.io/latest-changes/",
                 "id": 168235892,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2026-03-17T15:38:43Z",
+                "open_issues": 5,
                 "owner": "rene78",
                 "repo": "latest-changes",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "leaflet",
+                  "openstreetmap",
+                  "openstreetmap-data",
+                  "openstreetmap-validator",
+                  "overpass-api",
+                  "quality-control",
+                  "vanilla-javascript"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -628,12 +895,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MapRoulette, the micro-tasking tool for OpenStreetMap",
+            "homepage": "https://maproulette.org",
             "id": 117891285,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:57:00Z",
+            "open_issues": 91,
             "owner": "maproulette",
             "repo": "maproulette-frontend",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "maproulette",
+              "openstreetmap"
+            ]
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         },
@@ -644,12 +919,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Interface for searching and resolving OpenStreetMap notes",
+            "homepage": "https://notesreview.org",
             "id": 116134042,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-27T15:56:22Z",
+            "open_issues": 2,
             "owner": "ENT8R",
             "repo": "NotesReview",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "notes",
+              "openstreetmap",
+              "openstreetmap-notes",
+              "osm"
+            ]
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         },
@@ -660,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map every day with OSM Streak",
+            "homepage": "http://streak.osmz.ru",
             "id": 111299877,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-24T06:58:17Z",
+            "open_issues": 29,
             "owner": "Zverik",
             "repo": "osmstreak",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         }
@@ -684,12 +974,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗺 OpenStreetMap 3D renderer powered by WebGL2",
+                "homepage": "http://streets.gl",
                 "id": 295498364,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-08-21T19:43:43Z",
+                "open_issues": 106,
                 "owner": "StrandedKitty",
                 "repo": "streets-gl",
-                "stars": 1079
+                "stars": 1080,
+                "topics": [
+                  "3d",
+                  "data-visualization",
+                  "map",
+                  "mapping",
+                  "maps",
+                  "openstreetmap",
+                  "rendering",
+                  "webgl",
+                  "webgl2"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -700,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FacilMap is a privacy-friendly, open-source versatile online map that combines different services based on OpenStreetMap and makes it easy to find places, plan trips and add markers, lines and routes to custom maps with live collaboration.",
+                "homepage": "https://facilmap.org/",
                 "id": 18538137,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T07:16:16Z",
+                "open_issues": 80,
                 "owner": "FacilMap",
                 "repo": "facilmap",
-                "stars": 406
+                "stars": 406,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -716,12 +1026,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lets make a universal app for OpenStreetMap",
+                "homepage": "https://osmapp.org",
                 "id": 165693175,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T10:51:12Z",
+                "open_issues": 170,
                 "owner": "zbycz",
                 "repo": "osmapp",
-                "stars": 383
+                "stars": 384,
+                "topics": [
+                  "maps",
+                  "openstreetmap",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -732,12 +1051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find roads that are the most curvy or twisty based on Open Street Map (OSM) data.",
+                "homepage": "http://roadcurvature.com/",
                 "id": 6878386,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-01-12T04:52:55Z",
+                "open_issues": 15,
                 "owner": "adamfranco",
                 "repo": "curvature",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -748,12 +1072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "See OSM edits happen in real time.",
+                "homepage": "https://osmlab.github.io/show-me-the-way/",
                 "id": 9406519,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-14T11:51:49Z",
+                "open_issues": 12,
                 "owner": "osmlab",
                 "repo": "show-me-the-way",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -764,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate before-after maps for OpenStreetMap with ease. ",
+                "homepage": "https://beforeafter.baato.io/",
                 "id": 374408434,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2025-04-23T16:00:39Z",
+                "open_issues": 44,
                 "owner": "baato",
                 "repo": "before-after",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -780,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Near-real-time display of edits in the OpenStreetMap database",
+                "homepage": null,
                 "id": 5558640,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-05-17T20:33:22Z",
+                "open_issues": 13,
                 "owner": "cstenac",
                 "repo": "osm-livechanges",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -803,12 +1142,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+                "homepage": "https://organicmaps.app",
                 "id": 324829379,
                 "language": "C++",
-                "last_commit": "2026-08-28T12:14:49Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T22:17:12Z",
+                "open_issues": 3475,
                 "owner": "organicmaps",
                 "repo": "organicmaps",
-                "stars": 15231
+                "stars": 15239,
+                "topics": [
+                  "android",
+                  "app",
+                  "cpp",
+                  "cyclists",
+                  "hacktoberfest",
+                  "hikers",
+                  "ios",
+                  "java",
+                  "maps",
+                  "mobile",
+                  "mobile-app",
+                  "navigation",
+                  "objective-c",
+                  "offline",
+                  "offline-maps",
+                  "openstreetmap",
+                  "privacy",
+                  "routing",
+                  "tourists",
+                  "travelers"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -819,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OsmAnd",
+                "homepage": "https://osmand.net",
                 "id": 1258570,
                 "language": "Java",
-                "last_commit": "2026-08-28T13:30:17Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:08:00Z",
+                "open_issues": 3457,
                 "owner": "osmandapp",
                 "repo": "OsmAnd",
-                "stars": 5934
+                "stars": 5936,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -842,12 +1212,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Field Papers umbrella project",
+                "homepage": null,
                 "id": 31184825,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-13T02:55:34Z",
+                "open_issues": 135,
                 "owner": "fieldpapers",
                 "repo": "fieldpapers",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "fieldpapers",
+                  "openstreetmap"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -858,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of maposmatic repository at savannah.nongnu.org",
+                "homepage": null,
                 "id": 49588554,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-13T14:54:01Z",
+                "open_issues": 73,
                 "owner": "hholzgra",
                 "repo": "maposmatic",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -881,12 +1264,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World-wide CartoCSS port of Stamen's classic terrain style",
+                "homepage": null,
                 "id": 34821046,
                 "language": "CartoCSS",
+                "license": "ISC",
                 "last_commit": "2024-06-09T21:17:04Z",
+                "open_issues": 60,
                 "owner": "stamen",
                 "repo": "terrain-classic",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "cartocss-port",
+                  "cartography",
+                  "map",
+                  "openstreetmap",
+                  "postgis",
+                  "stamen",
+                  "terrain-style",
+                  "tilemill"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -904,12 +1301,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+                "homepage": "https://arnismc.com/",
                 "id": 535010087,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T15:22:18Z",
+                "open_issues": 143,
                 "owner": "louis-e",
                 "repo": "arnis",
-                "stars": 17651
+                "stars": 17660,
+                "topics": [
+                  "maps",
+                  "minecraft",
+                  "openstreetmap",
+                  "osm",
+                  "overpass-api",
+                  "rust",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -920,12 +1330,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "How well do you know your area? Test your knowledge by locating streets with this game.",
+                "homepage": "https://backofyourhand.com",
                 "id": 314522458,
                 "language": "Svelte",
+                "license": "MPL-2.0",
                 "last_commit": "2026-04-29T19:20:07Z",
+                "open_issues": 6,
                 "owner": "adam-lynch",
                 "repo": "back-of-your-hand",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "game",
+                  "geocoding",
+                  "map"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -936,12 +1355,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backend API for location-based games or mapping applications powered by OpenStreetMap data. Renders maptiles without external dependencies in C# from SQL Server, MariaDB, or PostgreSQL",
+                "homepage": null,
                 "id": 287529267,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-06T15:28:16Z",
+                "open_issues": 2,
                 "owner": "PraxisMapper",
                 "repo": "PraxisMapper",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "csharp",
+                  "game",
+                  "gps",
+                  "location-based",
+                  "map-game",
+                  "mariadb",
+                  "openstreetmap-data",
+                  "openstreetmap-renderer",
+                  "praxis",
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -965,12 +1400,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Routing Machine - C++ backend",
+                "homepage": "https://discord.gg/CpWzBC9G7Z",
                 "id": 2436255,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T18:21:57Z",
+                "open_issues": 358,
                 "owner": "Project-OSRM",
                 "repo": "osrm-backend",
-                "stars": 8020
+                "stars": 8022,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp17",
+                  "isochrones",
+                  "map-matching",
+                  "openstreetmap",
+                  "osm",
+                  "osrm",
+                  "routing",
+                  "routing-engine",
+                  "traveling-salesman"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -981,12 +1433,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mapnik is an open source toolkit for developing mapping applications",
+                "homepage": "http://mapnik.org",
                 "id": 2556327,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-28T10:05:05Z",
+                "open_issues": 728,
                 "owner": "mapnik",
                 "repo": "mapnik",
-                "stars": 3956
+                "stars": 3956,
+                "topics": [
+                  "beautiful-maps",
+                  "c-plus-plus",
+                  "cartography",
+                  "gis",
+                  "mapnik",
+                  "mapping",
+                  "python",
+                  "rendering",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -997,12 +1464,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and flexible C++ library for working with OpenStreetMap data.",
+                "homepage": "https://osmcode.org/libosmium/",
                 "id": 11733070,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-28T07:18:51Z",
+                "open_issues": 12,
                 "owner": "osmcode",
                 "repo": "libosmium",
-                "stars": 552
+                "stars": 552,
+                "topics": [
+                  "c-plus-plus",
+                  "openstreetmap"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -1020,12 +1495,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+                "homepage": "https://leafletjs.com",
                 "id": 931135,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T12:53:41Z",
+                "open_issues": 565,
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45526
+                "stars": 45529,
+                "topics": [
+                  "javascript",
+                  "leaflet",
+                  "maps"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1036,12 +1520,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenLayers",
+                "homepage": "https://openlayers.org",
                 "id": 4723248,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-26T21:40:49Z",
+                "open_issues": 854,
                 "owner": "openlayers",
                 "repo": "openlayers",
-                "stars": 12559
+                "stars": 12559,
+                "topics": [
+                  "javascript",
+                  "maps",
+                  "openlayers"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1052,12 +1545,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+                "homepage": "https://maplibre.org/maplibre-gl-js/docs/",
                 "id": 319779344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T11:58:07Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:32:51Z",
+                "open_issues": 386,
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11474
+                "stars": 11480,
+                "topics": [
+                  "hacktoberfest",
+                  "maplibre",
+                  "maplibre-gl",
+                  "maplibre-gl-js",
+                  "typescript",
+                  "webgl2"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1068,12 +1573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bindings to mapnik for node.js",
+                "homepage": "http://mapnik.org/documentation/node-mapnik",
                 "id": 1084114,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T14:07:26Z",
+                "open_issues": 104,
                 "owner": "mapnik",
                 "repo": "node-mapnik",
-                "stars": 545
+                "stars": 545,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1084,12 +1594,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fast and flexible Javascript library for working with OpenStreetMap data.",
+                "homepage": "https://osmcode.org/node-osmium/",
                 "id": 15053686,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2024-06-10T08:30:17Z",
+                "open_issues": 0,
                 "owner": "osmcode",
                 "repo": "node-osmium",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "javascript",
+                  "openstreetmap"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1100,12 +1618,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming OpenStreetMap PBF parser for Node.js",
+                "homepage": null,
                 "id": 576635800,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-14T10:35:30Z",
+                "open_issues": 0,
                 "owner": "borisgontar",
                 "repo": "osm-pbf-parser-node",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "node-js",
+                  "openstreetmap",
+                  "parser",
+                  "pbf"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -1123,12 +1651,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.",
+                "homepage": "https://osmnx.readthedocs.io",
                 "id": 64045935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T17:24:41Z",
+                "open_issues": 2,
                 "owner": "gboeing",
                 "repo": "osmnx",
-                "stars": 5830
+                "stars": 5830,
+                "topics": [
+                  "geography",
+                  "geospatial",
+                  "gis",
+                  "mapping",
+                  "networks",
+                  "networkx",
+                  "openstreetmap",
+                  "osm",
+                  "osmnx",
+                  "overpass-api",
+                  "python",
+                  "routing",
+                  "spatial",
+                  "spatial-analysis",
+                  "spatial-data",
+                  "street-networks",
+                  "transport",
+                  "transportation",
+                  "urban",
+                  "urban-planning"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1139,12 +1693,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp",
+                "homepage": null,
                 "id": 410935357,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-08T14:24:28Z",
+                "open_issues": 4,
                 "owner": "chrieke",
                 "repo": "prettymapp",
-                "stars": 2809
+                "stars": 2809,
+                "topics": [
+                  "app",
+                  "art",
+                  "cartography",
+                  "geography",
+                  "map",
+                  "osm",
+                  "prettymaps",
+                  "streamlit"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1155,12 +1723,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python bindings for the OpenStreetMap Overpass API",
+                "homepage": null,
                 "id": 23285415,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-08T03:59:25Z",
+                "open_issues": 20,
                 "owner": "mvexel",
                 "repo": "overpass-api-python-wrapper",
-                "stars": 401
+                "stars": 401,
+                "topics": [
+                  "openstreetmap",
+                  "overpass-api"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1171,12 +1747,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QuackOSM: an open-source Python and CLI tool for reading OpenStreetMap PBF files using DuckDB",
+                "homepage": "https://kraina-ai.github.io/quackosm/",
                 "id": 736611501,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T21:53:47Z",
+                "open_issues": 23,
                 "owner": "kraina-ai",
                 "repo": "quackosm",
-                "stars": 375
+                "stars": 375,
+                "topics": [
+                  "duckdb",
+                  "geo",
+                  "geospatial",
+                  "openstreetmap",
+                  "osm",
+                  "pbf",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1187,12 +1776,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Wrapper to access the Overpass API",
+                "homepage": "https://python-overpy.readthedocs.io/",
                 "id": 28007455,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T18:51:00Z",
+                "open_issues": 29,
                 "owner": "DinoTools",
                 "repo": "python-overpy",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "openstreetmap",
+                  "overpass-api",
+                  "python",
+                  "python3",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1203,12 +1803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python wrapper for the OpenStreetMap API",
+                "homepage": "http://osmapi.metaodi.ch/",
                 "id": 15563341,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T19:52:39Z",
+                "open_issues": 21,
                 "owner": "metaodi",
                 "repo": "osmapi",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1219,12 +1824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python bindings for mapnik",
+                "homepage": null,
                 "id": 34407915,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-07-28T09:11:01Z",
+                "open_issues": 149,
                 "owner": "mapnik",
                 "repo": "python-mapnik",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1235,12 +1845,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package to detect suspicious OSM changesets",
+                "homepage": null,
                 "id": 35563198,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-04T13:46:14Z",
+                "open_issues": 9,
                 "owner": "OSMCha",
                 "repo": "osmcha",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "gis",
+                  "openstreetmap",
+                  "osm",
+                  "qa"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1251,12 +1871,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and storage-efficient spatial database engine for OpenStreetMap data",
+                "homepage": "https://docs.geodesk.com/python",
                 "id": 710223777,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-27T12:29:15Z",
+                "open_issues": 27,
                 "owner": "clarisma",
                 "repo": "geodesk-py",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "database",
+                  "geodesk",
+                  "geospatial",
+                  "openstreetmap"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1267,12 +1897,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A parser for the opening_hours fields from OpenStreetMap",
+                "homepage": null,
                 "id": 99339960,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2021-10-21T17:51:37Z",
+                "open_issues": 7,
                 "owner": "rezemika",
                 "repo": "humanized_opening_hours",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "lark",
+                  "opening-hours",
+                  "openstreetmap",
+                  "openstreetmap-data",
+                  "parser",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1283,12 +1925,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for generating OpenStreetMap's Overpass QL queries from Python objects.",
+                "homepage": "https://pypi.org/project/overpassforge/",
                 "id": 675641752,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-28T01:53:40Z",
+                "open_issues": 0,
                 "owner": "nmisyats",
                 "repo": "Overpass-Forge",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "openstreetmap",
+                  "openstreetmap-api",
+                  "overpass-api",
+                  "overpass-ql"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -1306,12 +1958,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.",
+                "homepage": "https://www.graphhopper.com/open-source/",
                 "id": 3480666,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T20:47:27Z",
+                "open_issues": 240,
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6647
+                "stars": 6647,
+                "topics": [
+                  "astar",
+                  "dijkstra",
+                  "directions",
+                  "geospatial",
+                  "graphhopper",
+                  "isochrones",
+                  "java",
+                  "map-matching",
+                  "openstreetmap",
+                  "pathfinding",
+                  "public-transportation",
+                  "routing",
+                  "routing-engine"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1322,12 +1993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source multi-modal trip planner",
+                "homepage": "http://www.opentripplanner.org",
                 "id": 2067253,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:30:45Z",
+                "open_issues": 137,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2723
+                "stars": 2723,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1338,12 +2014,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "converter that creates three-dimensional models of the world from OpenStreetMap data",
+                "homepage": "http://osm2world.org/",
                 "id": 4241340,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:08:51Z",
+                "open_issues": 97,
                 "owner": "tordanik",
                 "repo": "OSM2World",
-                "stars": 775
+                "stars": 775,
+                "topics": [
+                  "3d",
+                  "3d-tiles",
+                  "gltf",
+                  "openstreetmap",
+                  "pbr",
+                  "wavefront-obj"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             },
@@ -1354,12 +2042,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and storage-efficient spatial database engine for OpenStreetMap data",
+                "homepage": "https://docs.geodesk.com/java",
                 "id": 454366109,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-17T15:16:15Z",
+                "open_issues": 43,
                 "owner": "clarisma",
                 "repo": "geodesk",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "database",
+                  "geodesk",
+                  "geospatial",
+                  "gis",
+                  "openstreetmap"
+                ]
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
             }
@@ -1381,12 +2080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A database engine to query the OpenStreetMap data.",
+            "homepage": "http://overpass-api.de",
             "id": 3551227,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-19T18:17:06Z",
+            "open_issues": 219,
             "owner": "drolbr",
             "repo": "Overpass-API",
-            "stars": 917
+            "stars": 917,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         },
@@ -1397,12 +2101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A database manager and API for OSMCha",
+            "homepage": "https://osmcha.org",
             "id": 40156760,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-24T17:09:24Z",
+            "open_issues": 22,
             "owner": "OSMCha",
             "repo": "osmcha-django",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "django",
+              "gis",
+              "openstreetmap",
+              "osm",
+              "qa"
+            ]
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         },
@@ -1413,12 +2128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "operational issues about the Postpass instance run on postpass.geofabrik.de",
+            "homepage": null,
             "id": 955240028,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-20T08:19:52Z",
+            "open_issues": 7,
             "owner": "woodpeck",
             "repo": "postpass-ops",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         },
@@ -1429,12 +2149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small and simple tool to resolve timestamps to replication numbers used on http://planet.osm.org/replication/ (see http://wiki.openstreetmap.org/wiki/Planet.osm/diffs for mor information)",
+            "homepage": "http://osm.personalwerk.de/replicate-sequences/",
             "id": 11445451,
             "language": "PHP",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-03-26T13:01:29Z",
+            "open_issues": 1,
             "owner": "MaZderMind",
             "repo": "replicate-sequences",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         }
@@ -1451,12 +2176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitoring OpenStreetMap with Datadog",
+            "homepage": null,
             "id": 429306692,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-07T15:30:26Z",
+            "open_issues": 10,
             "owner": "johanmorganti",
             "repo": "osm-datadog",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         }
@@ -1473,12 +2203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome things that use or support MapLibre!",
+            "homepage": null,
             "id": 371112129,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T06:06:22Z",
+            "open_issues": 0,
             "owner": "maplibre",
             "repo": "awesome-maplibre",
-            "stars": 1057
+            "stars": 1057,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:11.032Z"
         }
@@ -1487,15 +2222,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:25:11.032Z",
+    "last_updated": "2026-08-29T04:36:10.717Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 Curated list of awesome OpenSteetMap-projects",
+      "homepage": null,
       "id": 88237705,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-23T22:06:05Z",
+      "open_issues": 42,
       "owner": "osmlab",
       "repo": "awesome-openstreetmap",
-      "stars": 984
+      "stars": 984,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "opendata",
+        "openstreetmap",
+        "openstreetmap-data",
+        "osm"
+      ]
     },
     "original_repository_sha": "983363a724c5fe1335587d1e120565e7f835c030",
     "enhanced_repository": "enhansome/enhansome-openstreetmap",
