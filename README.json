@@ -246,11 +246,11 @@
                 "id": 286814683,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T17:33:31Z",
+                "last_commit": "2026-08-29T06:19:10Z",
                 "open_issues": 123,
                 "owner": "Helium314",
                 "repo": "SCEE",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:25:11.032Z"
@@ -1189,8 +1189,8 @@
                 "id": 1258570,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T17:08:00Z",
-                "open_issues": 3457,
+                "last_commit": "2026-08-29T08:04:43Z",
+                "open_issues": 3458,
                 "owner": "osmandapp",
                 "repo": "OsmAnd",
                 "stars": 5936,
@@ -1310,7 +1310,7 @@
                 "open_issues": 143,
                 "owner": "louis-e",
                 "repo": "arnis",
-                "stars": 17660,
+                "stars": 17665,
                 "topics": [
                   "maps",
                   "minecraft",
@@ -1405,11 +1405,11 @@
                 "id": 2436255,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-27T18:21:57Z",
-                "open_issues": 358,
+                "last_commit": "2026-08-29T06:57:53Z",
+                "open_issues": 359,
                 "owner": "Project-OSRM",
                 "repo": "osrm-backend",
-                "stars": 8022,
+                "stars": 8023,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1504,7 +1504,7 @@
                 "open_issues": 565,
                 "owner": "Leaflet",
                 "repo": "Leaflet",
-                "stars": 45529,
+                "stars": 45531,
                 "topics": [
                   "javascript",
                   "leaflet",
@@ -1529,7 +1529,7 @@
                 "open_issues": 854,
                 "owner": "openlayers",
                 "repo": "openlayers",
-                "stars": 12559,
+                "stars": 12560,
                 "topics": [
                   "javascript",
                   "maps",
@@ -1551,10 +1551,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:32:51Z",
-                "open_issues": 386,
+                "open_issues": 387,
                 "owner": "maplibre",
                 "repo": "maplibre-gl-js",
-                "stars": 11480,
+                "stars": 11481,
                 "topics": [
                   "hacktoberfest",
                   "maplibre",
@@ -2051,7 +2051,7 @@
                 "open_issues": 43,
                 "owner": "clarisma",
                 "repo": "geodesk",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "database",
                   "geodesk",
@@ -2222,7 +2222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:10.717Z",
+    "last_updated": "2026-08-29T09:09:29.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome OpenSteetMap-projects",
