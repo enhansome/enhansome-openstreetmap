@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-10-02T09:23:29Z",
-                "open_issues": 1016,
+                "open_issues": 1017,
                 "owner": "openstreetmap",
                 "repo": "iD",
                 "stars": 3889,
@@ -144,10 +144,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T10:53:28Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "streetcomplete",
                 "repo": "StreetComplete",
-                "stars": 5007,
+                "stars": 5009,
                 "topics": [
                   "android",
                   "editor",
@@ -1151,7 +1151,7 @@
                 "open_issues": 3542,
                 "owner": "organicmaps",
                 "repo": "organicmaps",
-                "stars": 15551,
+                "stars": 15552,
                 "topics": [
                   "android",
                   "app",
@@ -1443,7 +1443,7 @@
                 "open_issues": 729,
                 "owner": "mapnik",
                 "repo": "mapnik",
-                "stars": 3964,
+                "stars": 3965,
                 "topics": [
                   "beautiful-maps",
                   "c-plus-plus",
@@ -2000,7 +2000,7 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T15:46:01Z",
-                "open_issues": 150,
+                "open_issues": 149,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
                 "stars": 2746,
@@ -2223,7 +2223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:51.930Z",
+    "last_updated": "2026-10-03T08:16:25.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome OpenSteetMap-projects",
